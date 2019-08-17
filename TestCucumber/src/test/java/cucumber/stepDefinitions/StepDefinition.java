@@ -1,10 +1,10 @@
-package com.test.cucumber.stepDefinitions;
+package cucumber.stepDefinitions;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-public class TestStepDefinition {
+public class StepDefinition {
 
     @Given("^Launch Google\\.com$")
     public void launch_Google_com() throws Throwable {
