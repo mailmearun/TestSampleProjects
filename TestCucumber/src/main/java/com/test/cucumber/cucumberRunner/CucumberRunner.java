@@ -4,7 +4,7 @@ import org.junit.runner.RunWith;
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
-@RunWith(Cucumber.class)
+//@RunWith(Cucumber.class)
 @CucumberOptions(
         dryRun = false,
         monochrome = true,
@@ -13,6 +13,6 @@ import cucumber.api.junit.Cucumber;
         glue = {"com.test.cucumber.stepDefinitions"}
 )
 
-public class CucumberRunner {
+public class CucumberRunner extends AbstractTestNGCucumberTests {
 
 }

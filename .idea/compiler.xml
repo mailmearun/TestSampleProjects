@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TestCucumber" />
+        <module name="TestFrameworkQA" />
+        <module name="TestHybridNTS" />
+        <module name="TestPOMGS" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="TestCucumber" target="1.8" />
+      <module name="TestFrameworkQA" target="1.5" />
+      <module name="TestHybridNTS" target="1.5" />
+      <module name="TestPOMGS" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

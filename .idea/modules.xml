@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestCucumber/TestCucumber.iml" filepath="$PROJECT_DIR$/TestCucumber/TestCucumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestFrameworkQA/TestFrameworkQA.iml" filepath="$PROJECT_DIR$/TestFrameworkQA/TestFrameworkQA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestHybridNTS/TestHybridNTS.iml" filepath="$PROJECT_DIR$/TestHybridNTS/TestHybridNTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestPOMGS/TestPOMGS.iml" filepath="$PROJECT_DIR$/TestPOMGS/TestPOMGS.iml" />
+    </modules>
+  </component>
+</project>
